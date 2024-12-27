@@ -32,9 +32,12 @@ YOUR REALSTATE is a mern-stack real estate application. In this app users can cr
 - [Cloudinary](https://www.cloudinary.com/) - Image Storage
 
 ## :camera_flash: Screenshots
-![estate-hub-home](https://github.com/ahmedsemih/MERN-Stack-Real-Estate-App/assets/102798814/2f14a18e-489f-4064-a231-ddca59ce8b63)
-![estate-hub-search](https://github.com/ahmedsemih/MERN-Stack-Real-Estate-App/assets/102798814/314ae60b-d111-4d27-b088-db5d60f3e83c)
-![estate-hub-estate](https://github.com/ahmedsemih/MERN-Stack-Real-Estate-App/assets/102798814/0ca1cc43-9a72-48af-a77d-294a746e89b2)
+<img width="1585" alt="Screenshot 2024-12-27 at 12 14 18 PM" src="https://github.com/user-attachments/assets/943cb17c-ae09-4472-9b9d-79c502dfb048" />
+
+<img width="1068" alt="Screenshot 2024-12-27 at 12 26 49 PM" src="https://github.com/user-attachments/assets/8828f486-41ae-45f4-a39e-bc2d47ce7edc" />
+
+<img width="1068" alt="Screenshot 2024-12-27 at 12 27 32 PM" src="https://github.com/user-attachments/assets/cd3a1e48-4998-45d8-95c0-124fe5615f00" />
+
 
 
 
